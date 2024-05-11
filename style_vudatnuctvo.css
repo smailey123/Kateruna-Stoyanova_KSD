@@ -1,0 +1,119 @@
+body{
+}
+.ul{
+    display: flex;
+    margin-left: 28px;  
+}
+.li{
+    display: block;
+    color:#ffffff;
+    background-color: #D9D9D9;
+    padding: 15px 10px ;
+    border:2px solid #ffffff;
+    margin:10px 50px ;
+}
+.li_a{
+    text-decoration: none;
+    color:#000000;
+    justify-content: space-around;
+}
+.KSD{
+    height: 140px;
+}
+.sec1{
+    display: flex;
+}
+.heder_sec2{
+    display: flex;
+}
+.header_arc2{
+    padding: 15px 0 0 0;
+}
+.header_a2{
+    color:#727272;
+    text-decoration: none;
+}
+.header_a2:hover{
+    color:#3e3e3e;
+}
+.main_h2_2{
+    font-size:30px;
+    text-align: center;
+}
+.header_p2{
+    color:#727272;
+}
+.main_sec{
+ background-color: #EBEBEB;
+ width: 17%;
+ height: 1100px;
+ float: left;
+}
+.main_arc{
+    padding:2px 5px 2px 5px
+}
+.main_a{
+    color:#000000;
+    text-decoration: none;
+}
+.main_a_{
+    text-decoration: none;
+    color:#BD0000;
+}
+.main_a_1{
+    text-decoration: none;
+    color:#000000;
+}
+.main_img_CSD{
+    width: 78%;
+    justify-content: center;
+    margin: 20px;
+}
+.main_p{
+    margin: 3% 0 0 20%;
+    font-size: 17px;
+}
+.footer_sec{
+    display: flex;
+    position: absolute;
+    bottom:-800px;
+    background-color: #D9D9D9;
+    padding: 50px ;
+}
+.footer_arc1{
+    display: block;
+    width:470px
+}
+.footer_arc{
+    display: flex;
+    width:470px
+}
+.footer_dom{
+    width: 30px;
+    margin:0 20px 40 0 ;
+}
+.footer_ksd{
+    text-decoration: none;
+    color:#000000;
+    font-size: 20px;
+    margin: 0 10px 10px 0;
+    height: 20px;
+}
+.footer_compania{
+    height:70px;
+}
+.footer_img{
+    width:50px;
+    height: 50px;
+    margin: 5px;
+}
+.footer_a{
+    text-decoration: none;
+    color:#000000;
+    font-size: 16px;
+    display: block;
+    margin-left: 60px;
+}
+.image{
+    width:90%;
+}
