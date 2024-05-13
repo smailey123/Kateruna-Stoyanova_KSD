@@ -88,13 +88,11 @@ details{
 }
 summary{
     color:#BD0000;
-    margin-left:19%;
     margin-top:5px
     width: 150px;
 }
 summary:hover{
     border-bottom: 2px dotted #BD0000;
-    margin-left:19%;
 }
 .footer_sec{
     display: flex;
