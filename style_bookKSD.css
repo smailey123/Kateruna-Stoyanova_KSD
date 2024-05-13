@@ -89,13 +89,13 @@ details{
 }
 summary{
     color:#BD0000;
-    margin-left:19%;
+    margin-left:3%;
     margin-top:5px
     width: 150px;
 }
 summary:hover{
     border-bottom: 2px dotted #BD0000;
-    margin-left:19%;
+    margin-left:3%;
 }
 .footer_sec{
     display: flex;
