@@ -85,17 +85,17 @@ body{
     
 }
 details{
-    
+    margin-left:2%
 }
 summary{
     color:#BD0000;
-    margin-left:3%;
+    margin-left:20%;
     margin-top:5px
     width: 150px;
 }
 summary:hover{
     border-bottom: 2px dotted #BD0000;
-    margin-left:3%;
+    margin-left:20%;
 }
 .footer_sec{
     display: flex;
@@ -140,7 +140,4 @@ summary:hover{
 }
 .image{
     width: 90%;
-}
-details{
-    margin-left:20%;
 }
