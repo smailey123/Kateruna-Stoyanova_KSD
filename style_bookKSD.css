@@ -45,7 +45,7 @@ body{
 .main_sec{
  background-color: #EBEBEB;
  width: 17%;
- height: 2040px;
+ height: 2100px;
  float: left;
 }
 .main_arc{
@@ -95,7 +95,7 @@ summary:hover{
 .footer_sec{
     display: flex;
     position: absolute;
-    bottom:-1550px;
+    bottom:-1600px;
     background-color: #D9D9D9;
     padding: 50px ;
 }
