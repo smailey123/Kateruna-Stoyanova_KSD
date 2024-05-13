@@ -89,7 +89,8 @@ details{
 }
 summary{
     color:#BD0000;
-    margin: 1% 0 0 20%; 
+    margin-left:19%;
+    margin-top:5px
     width: 150px;
 }
 summary:hover{
